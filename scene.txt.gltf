@@ -272,31 +272,31 @@
   ],
   "images": [
     {
-      "uri": "textures/cushion_baseColor.png"
+      "uri": "https://cdn.prod.website-files.com/65f34065756052ae86ffb9bf/6932cb7dfba7137a624e09a9_cushion_baseColor.png"
     },
     {
-      "uri": "textures/cushion_metallicRoughness.png"
+      "uri": "https://cdn.prod.website-files.com/65f34065756052ae86ffb9bf/6932cb77e00fda8a59afb95b_cushion_metallicRoughness.png"
     },
     {
-      "uri": "textures/cushion_normal.png"
+      "uri": "https://cdn.prod.website-files.com/65f34065756052ae86ffb9bf/6932cd1f3204fa7cf2a3f980_cushion_normal.jpg"
     },
     {
-      "uri": "textures/wood_baseColor.png"
+      "uri": "https://cdn.prod.website-files.com/65f34065756052ae86ffb9bf/6932cb781cce487eb4143793_wood_baseColor.png"
     },
     {
-      "uri": "textures/wood_metallicRoughness.png"
+      "uri": "https://cdn.prod.website-files.com/65f34065756052ae86ffb9bf/6932cb78f30cf8d00cff3b77_wood_metallicRoughness.png"
     },
     {
-      "uri": "textures/wood_normal.png"
+      "uri": "https://cdn.prod.website-files.com/65f34065756052ae86ffb9bf/6932cb796eeee55a851c0598_wood_normal.png"
     },
     {
-      "uri": "textures/chair_baseColor.png"
+      "uri": "https://cdn.prod.website-files.com/65f34065756052ae86ffb9bf/6932cb79e943b36989aca3ca_chair_baseColor.png"
     },
     {
-      "uri": "textures/chair_metallicRoughness.png"
+      "uri": "https://cdn.prod.website-files.com/65f34065756052ae86ffb9bf/6932cd1f3da178f14f266144_chair_metallicRoughness.jpg"
     },
     {
-      "uri": "textures/chair_normal.png"
+      "uri": "https://cdn.prod.website-files.com/65f34065756052ae86ffb9bf/6932cd1f2b1810a221d1bc9c_chair_normal.jpg"
     }
   ],
   "materials": [
